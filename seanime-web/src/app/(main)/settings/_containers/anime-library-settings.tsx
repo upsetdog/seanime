@@ -27,7 +27,7 @@ export function AnimeLibrarySettings(props: LibrarySettingsProps) {
                     name="libraryPath"
                     label="Library directory"
                     leftIcon={<FcFolder />}
-                    help="Path of the directory where your media files ared located. (Keep the casing consistent)"
+                    help="Path of the directory where your media files are located. (Keep the casing consistent)"
                     shouldExist
                 />
 
